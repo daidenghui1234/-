@@ -1,2 +1,6 @@
 ﻿  food.cpp
+  game.cpp
+  snake.cpp
+  wall.cpp
+  正在生成代码...
   贪吃蛇.vcxproj -> E:\02course\C++学习\STL\贪吃蛇\Debug\贪吃蛇.exe
